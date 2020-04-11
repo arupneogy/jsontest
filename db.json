@@ -47,6 +47,22 @@
           "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
         }
        ] 
+    },
+    {
+      "examName": "IBPS",
+      "examImg": "https://www.bgsbuniversity.org/wp-content/uploads/2020/04/IBPS-Clerk-Mains-PO-Final-Exam-Result-2020.png",
+      "ExamFact": [
+        {
+          "examTitle": "Provisoning Officer",
+          "examDate": "27-Mar-2020",
+          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
+        },
+        {
+          "examTitle": "Clerk",
+          "examDate": "28-Mar-2020",
+          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
+        }
+      ]
     }
   ],
   "profile": {
