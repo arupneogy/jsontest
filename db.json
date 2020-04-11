@@ -1,68 +1,28 @@
 {
-  "exam": [
+  "posts": [
     {
-      "examName":"UPSC",
-      "examImg": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2019/05/UPSC-1-696x392.jpg",
-      "ExamFact":[
-        {
-          "examTitle": "CDS",
-          "examDate": "27-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        } ,
-        {
-          "examTitle": "CSE",
-          "examDate": "28-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        }
-       ] 
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "examName":"SSC",
-      "examImg": "https://odishatv.in/wp-content/uploads/2020/02/SSC.jpg",
-      "ExamFact":[
-        {
-          "examTitle": "CGL",
-          "examDate": "27-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        } ,
-        {
-          "examTitle": "CHSL",
-          "examDate": "28-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        }
-       ] 
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "examName":"IBPS",
-      "examImg": "https://www.bgsbuniversity.org/wp-content/uploads/2020/04/IBPS-Clerk-Mains-PO-Final-Exam-Result-2020.png",
-      "ExamFact":[
-        {
-          "examTitle": "Provisoning Officer",
-          "examDate": "27-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        } ,
-        {
-          "examTitle": "Clerk",
-          "examDate": "28-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        }
-       ] 
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "examName":"Railway",
-      "examImg": "https://images1.livehindustan.com/uploadimage/library/2020/02/25/16_9/16_9_3/bareilly_wires_linked_to_terror_funding_through_train_tickets_1582611462.jpg",
-      "ExamFact":[
-        {
-          "examTitle": "Officer",
-          "examDate": "27-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        } ,
-        {
-          "examTitle": "Clerk",
-          "examDate": "28-Mar-2020",
-          "examDetail": "Combined Defence Services Examination commonly known as CDS is conducted by the Union Public Service Commission for recruitment of Commissioned Officers in Indian Army, Navy and Air Force. The exam is held twice a year usually in February and September. Lakhs of candidates appear for the national level defence entrance examination."
-        }
-       ] 
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
