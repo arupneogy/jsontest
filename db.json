@@ -66,4 +66,8 @@
       ]
     }
   ]
-   }
+  ,
+  "profile": {
+    "name": "typicode"
+  }
+}
