@@ -1,5 +1,4 @@
-{
-  "exam": [
+ [
     {
       "examName":"UPSC",
       "examImg": "https://d2c7ipcroan06u.cloudfront.net/wp-content/uploads/2019/05/UPSC-1-696x392.jpg",
@@ -64,8 +63,4 @@
         }
       ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
