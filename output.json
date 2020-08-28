@@ -1,5 +1,5 @@
 {
-  "states:"
+  "states:" {
   [
     {
     "stateName": "India",
@@ -218,4 +218,5 @@
     "Deaths": "2475",
    }
   ]
+}
 }
