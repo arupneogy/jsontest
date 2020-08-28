@@ -217,6 +217,9 @@
     "Cured": "89703",
     "Deaths": "2475",
    }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
 }
