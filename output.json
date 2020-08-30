@@ -1,0 +1,221 @@
+{
+  "states":
+  [
+   {
+    "stateName": "India",
+    "Active": "765302(12878)",
+    "Cured": "2713933(64935)",
+    "Deaths": "2713933(64935)"
+   },
+   {
+    "stateName": "Andaman and Nicobar Islands",
+    "Active": "518",
+    "Cured": "2519",
+    "Deaths": "44"
+   },
+   {
+    "stateName": "Andhra Pradesh",
+    "Active": "97681",
+    "Cured": "312687",
+    "Deaths": "3796"
+   },
+   {
+    "stateName": "Arunachal Pradesh",
+    "Active": "1118",
+    "Cured": "2754",
+    "Deaths": "5"
+   },
+   {
+    "stateName": "Assam",
+    "Active": "20995",
+    "Cured": "82510",
+    "Deaths": "289"
+   },
+   {
+    "stateName": "Bihar",
+    "Active": "17670",
+    "Cured": "114772",
+    "Deaths": "561"
+   },
+   {
+    "stateName": "Chandigarh",
+    "Active": "1692",
+    "Cured": "2248",
+    "Deaths": "45"
+   },
+   {
+    "stateName": "Chhattisgarh",
+    "Active": "12666",
+    "Cured": "15818",
+    "Deaths": "262"
+   },
+   {
+    "stateName": "Dadra and Nagar Haveli and Daman and Diu",
+    "Active": "306",
+    "Cured": "1998",
+    "Deaths": "2"
+   },
+   {
+    "stateName": "Delhi",
+    "Active": "14040",
+    "Cured": "152922",
+    "Deaths": "4404"
+   },
+   {
+    "stateName": "Goa",
+    "Active": "3646",
+    "Cured": "12729",
+    "Deaths": "178"
+   },
+   {
+    "stateName": "Gujarat",
+    "Active": "15109",
+    "Cured": "75636",
+    "Deaths": "2989"
+   },
+   {
+    "stateName": "Haryana",
+    "Active": "10606",
+    "Cured": "50711",
+    "Deaths": "670"
+   },
+   {
+    "stateName": "Himachal Pradesh",
+    "Active": "1439",
+    "Cured": "4308",
+    "Deaths": "34"
+   },
+   {
+    "stateName": "Jammu and Kashmir",
+    "Active": "7672",
+    "Cured": "28020",
+    "Deaths": "685"
+   },
+   {
+    "stateName": "Jharkhand",
+    "Active": "11357",
+    "Cured": "25103",
+    "Deaths": "397"
+   },
+   {
+    "stateName": "Karnataka",
+    "Active": "86465",
+    "Cured": "235128",
+    "Deaths": "5483"
+   },
+   {
+    "stateName": "Kerala",
+    "Active": "23342",
+    "Cured": "48079",
+    "Deaths": "280"
+   },
+   {
+    "stateName": "Ladakh",
+    "Active": "826",
+    "Cured": "1745",
+    "Deaths": "32"
+   },
+   {
+    "stateName": "Madhya Pradesh",
+    "Active": "13117",
+    "Cured": "46413",
+    "Deaths": "1345"
+   },
+   {
+    "stateName": "Maharashtra",
+    "Active": "185467",
+    "Cured": "554711",
+    "Deaths": "24103"
+   },
+   {
+    "stateName": "Manipur",
+    "Active": "1746",
+    "Cured": "4186",
+    "Deaths": "28"
+   },
+   {
+    "stateName": "Meghalaya",
+    "Active": "1238",
+    "Cured": "1035",
+    "Deaths": "10"
+   },
+   {
+    "stateName": "Mizoram",
+    "Active": "424",
+    "Cured": "584",
+    "Deaths": "0"
+   },
+   {
+    "stateName": "Nagaland",
+    "Active": "925",
+    "Cured": "2917",
+    "Deaths": "9"
+   },
+   {
+    "stateName": "Odisha",
+    "Active": "26736",
+    "Cured": "70714",
+    "Deaths": "470"
+   },
+   {
+    "stateName": "Puducherry",
+    "Active": "4834",
+    "Cured": "8511",
+    "Deaths": "211"
+   },
+   {
+    "stateName": "Punjab",
+    "Active": "15409",
+    "Cured": "34091",
+    "Deaths": "1348"
+   },
+   {
+    "stateName": "Rajasthan",
+    "Active": "14776",
+    "Cured": "62971",
+    "Deaths": "1030"
+   },
+   {
+    "stateName": "Sikkim",
+    "Active": "404",
+    "Cured": "1195",
+    "Deaths": "3"
+   },
+   {
+    "stateName": "Tamil Nadu",
+    "Active": "52726",
+    "Cured": "355727",
+    "Deaths": "7137"
+   },
+   {
+    "stateName": "Telengana",
+    "Active": "31284",
+    "Cured": "90988",
+    "Deaths": "818"
+   },
+   {
+    "stateName": "Tripura",
+    "Active": "3977",
+    "Cured": "7232",
+    "Deaths": "98"
+   },
+   {
+    "stateName": "Uttarakhand",
+    "Active": "5735",
+    "Cured": "12586",
+    "Deaths": "250"
+   },
+   {
+    "stateName": "Uttar Pradesh",
+    "Active": "53360",
+    "Cured": "162741",
+    "Deaths": "3356"
+   },
+   {
+    "stateName": "West Bengal",
+    "Active": "25996",
+    "Cured": "127644",
+    "Deaths": "3126"
+   }
+  ]
+}
